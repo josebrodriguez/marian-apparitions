@@ -1,3 +1,3 @@
 # marian-apparitions
 
-This is a website with a list of the different Marian Apparitions approved by the Catholic Church, as well as basic information about each one.
+The purpose of this website is to document Marian apparitions around the world, providing a comprehensive resource for individuals to learn and deepen their understanding of the Catholic Faith. Through meticulous research and presentation of approved apparitions, the aim is to foster spiritual growth, devotion to the Blessed Virgin Mary, and a deeper connection to the teachings of the Church. This website will hopefully serve as a beacon of knowledge and inspiration, guiding believers on a journey of faith and discovery as they explore the profound significance of these divine manifestations in Catholic Tradition
